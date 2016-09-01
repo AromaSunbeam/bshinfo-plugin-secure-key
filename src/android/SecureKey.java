@@ -1,7 +1,7 @@
 /**
  * ADD BY LYZ @2015/07/14
  */
-package com.bshinfo.plugins;
+package com.bshinfo.plugins.secure;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaInterface;
